@@ -5,6 +5,6 @@ matplotlib
 Pillow
 tqdm
 clip@git+https://github.com/openai/CLIP.git
-dlib # For face alignment in inference
-scikit-learn # For PCA in visualization
-ninja # For StyleGAN2 Pytorch extension
+dlib # Для выравнивания лиц на инверенсе
+scikit-learn # Для PCA в визуализации
+ninja # Для StyleGAN2 Pytorch расширения
