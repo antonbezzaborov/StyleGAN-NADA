@@ -1,4 +1,4 @@
-# Набор инструментов для инверсии и стилизации StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
+# Toolkit for StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
 
 ### О проекте
 Данный проект предоставляет полный пайплайн для инверсии и стилизации изображений с использованием кастомно обученных генераторов StyleGAN-NADA. Он автоматизирует настройку модели, предобработку, энкодинг и перенос стиля с использованием манипуляции скрытым пространством под управлением CLIP. Данный проект является реимплементацией StyleGAN-NADA на основе статьи: [https://arxiv.org/pdf/2108.00946](https://arxiv.org/pdf/2108.00946)
